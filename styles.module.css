@@ -1,10 +1,8 @@
-.hello {
-  font: 15px Helvetica, Arial, sans-serif;
-  background: #eee;
-  padding: 100px;
-  text-align: center;
-  transition: 100ms ease-in background;
-}
-.hello:hover {
-  background: #ccc;
+/* Header/Logo Title */
+.header {
+  padding: 1%;
+  background: #c93b30;
+  color: white;
+  text-align: end;
+  font-size: 30%;
 }
